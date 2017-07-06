@@ -8,6 +8,10 @@ Users are given the option to avoid the markers of their choice, by doing so the
 
 Uses a Ruby on Rails backend, Javascript front-end, Devise for authentication, and CSS/Bootstrap for a clean, responsive design.
 
+#APIs:
+* GOOGLE MAPS
+* HERE
+
 ## TEAM
 * Brittany Baranowski (@minigiraffe23)
 * Kaley La Porta (@klaporta415)

@@ -20,13 +20,13 @@ Uses a Ruby on Rails backend, Javascript front-end, Devise for authentication, a
 ![Sign-up](./BSpoke_Signup_page.png "Sign-up")
 
 ## View a route
-
+![View Route](./Returned_Route.png "View Route")
 
 ## Drop a pin
-
+![Select Pin](./Pin_options.png "Select Pin")
 
 ## Avoid select pins
+![Avoid Pins](./Pin_avoidance_options.png "Avoid Pins")
 
 
-## View another user's comment
 
